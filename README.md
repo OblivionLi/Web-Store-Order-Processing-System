@@ -134,7 +134,7 @@ Exiting...
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/OblivionLi/Web-Store-Order-Processing-System.git
     ```
 2. **Navigate to the project directory:**
     ```bash
