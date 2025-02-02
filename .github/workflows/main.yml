@@ -3,12 +3,12 @@ name: JAVA CI
 on:
   push:
     branches: [master]
-  pull_requests:
+  pull_request:
     branches: [master]
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
