@@ -1,0 +1,1 @@
+*   **Description**: "The Decorator pattern lets you attach new behaviors to objects dynamically by placing them inside wrapper objects. In web development, this can be used to add features like logging, caching, or validation to existing components or services without modifying their core logic."

@@ -1,0 +1,1 @@
+*   **Description:** "The Facade pattern provides a simplified interface to a complex subsystem. In web development, it can be used to simplify interactions with complex libraries or external services. A Facade can hide the complexity of multiple API calls behind a single, easy-to-use method."

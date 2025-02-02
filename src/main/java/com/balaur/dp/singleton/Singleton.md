@@ -1,0 +1,1 @@
+*   **Description:** "The Singleton pattern ensures that only one instance of a class exists and provides a global point of access to it. In web development, it's often used for managing resources like database connections, configuration settings, or caches, where you want to avoid multiple instances and ensure consistent state."

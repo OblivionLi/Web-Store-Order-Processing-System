@@ -1,0 +1,1 @@
+*   **Description:** "The Adapter pattern allows objects with incompatible interfaces to work together. In web development, it's frequently used when integrating with third-party services or APIs that have different data formats or protocols. An Adapter can wrap the external service and present a consistent interface to your application."
