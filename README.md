@@ -173,4 +173,3 @@ This project uses the following external libraries:
 *   Use a graphical user interface (GUI) instead of the console.
 *   Implement a more realistic payment gateway integration.
 *   Add more comprehensive unit tests.
-* 
